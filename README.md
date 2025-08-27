@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+My name is Birhane Mehari
+Computer Science
+
 <!--
+My name is Birhane Mehari
 **MehariBirhane/MehariBirhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
