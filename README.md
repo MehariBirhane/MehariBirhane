@@ -2,7 +2,11 @@
 
 My name is Birhane Mehari
 
-Computer Science
+I'm a Computer Science major at Wright State University with a strong passion for software development, technology, and problem solving.
+
+I have experience in:
+- C++ and Java
+- Database Systems SQL
 
 <!--
 My name is Birhane Mehari
