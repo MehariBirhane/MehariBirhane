@@ -11,10 +11,12 @@ I have experience in:
   I'm currently working on two projects Bookshelf Library System and Cafe Management System.
 
 **Bookshelf Library System**
+
   The Bookshelf Library System is a Java and Spring Boot application designed to manage library operations efficiently.  
 It enables users to add, update, delete, and search for books, as well as track borrowing and returning records through a user-friendly backend.
 
 **Cafe Management System**
+
 The Café Management System is a full-stack Java application built with Spring Boot and MySQL to automate café operations.  
 It manages menus, customer orders, billing, and sales reports, helping improve efficiency and reduce manual work.
 
